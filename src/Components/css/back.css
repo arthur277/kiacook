@@ -1,0 +1,17 @@
+.imagefond{
+  background-image: url("../../Assets/pexels-photo-6937448.jpeg");
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 600px;
+  background-size: cover;
+}
+.message{
+  margin-top: 60px;
+  margin-bottom: 30px;
+  color: #f7722a;
+  font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+  font-size: 33px;
+  padding-top: 20p;
+  padding-bottom: 20px;
+  text-align: center;
+}
