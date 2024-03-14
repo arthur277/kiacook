@@ -3,13 +3,18 @@ import logokiacook from '../Assets/logokiacook.png'
 import logo from './css/logo.css'
 
 const Logo = () => {
-  return (
-    <div >
+return (
+  <div className='container zone-logo-header'>
+    <div className='row'>
+      <div className='col-md-12 text-center'>
         <a>
-            <img className='logo' src={logokiacook} />
+            <img  src={logokiacook} />
         </a>
+      </div>
     </div>
-  )
+      
+  </div>
+)
 }
 
 export default Logo
